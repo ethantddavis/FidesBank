@@ -5,6 +5,7 @@ This project aims to create an undercollateralized borrowing platform, where use
 <h2>Some ideas on why Fides might retain value equal to $1</h2>
 
 bank only accepts DAI as collateral
+
 user A wants to borrow to buy a house, user B wants to extract value from the system
 
 A deposits 100 DAI, borrows 101 token, cashes out to buy house
