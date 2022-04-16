@@ -2,7 +2,7 @@
 
 This project aims to create an undercollateralized borrowing platform, where users can take loans of Fides token, which aims to stay close to the value of the US dollar. The more a user builds up a history of repayment, the more uncollateralized fides they are allowed to borrow. Initially the user must deposit the amount of DAI they wish to be able to borrow against, and they gradually would be able to increase their borrowing limit. Fides that is borrowed beyond DAI collateral is accompanied by a nontransferable Debt token, which aims to publicly signal which address have outstanding loans. 
 
-<h2>Some ideas on why Fides might retain value equal to $1<h2>
+<h2>Some ideas on why Fides might retain value equal to $1</h2>
 
 bank only accepts DAI as collateral
 user A wants to borrow to buy a house, user B wants to extract value from the system
